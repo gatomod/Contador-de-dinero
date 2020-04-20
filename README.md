@@ -15,7 +15,8 @@ El programa es demasiado básico, con que agradecería que ayudaseis a mejorar e
 Este programa tiene la licncia GPL 3.0, porque me parece bien que cada uno haga su propia versión, pero en vuestras ediciones **quiero que pongais que el creador original fue Gátomo**
 
 ## Descarga
-Descarga el programa para Windows, MacOS y Linux
+Descarga el programa para Windows, MacOS y Linux 
+
 Datos:
  - Requisitos: Tener Java Instalado
  - Peso: 5 KB
