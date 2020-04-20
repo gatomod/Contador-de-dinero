@@ -14,6 +14,17 @@ El programa es demasiado básico, con que agradecería que ayudaseis a mejorar e
 ## Licencia
 Este programa tiene la licncia GPL 3.0, porque me parece bien que cada uno haga su propia versión, pero en vuestras ediciones **quiero que pongais que el creador original fue Gátomo**
 
+## Descarga
+Descarga el programa para Windows, MacOS y Linux
+Datos:
+ - Requisitos: Tener Java Instalado
+ - Peso: 5 KB
+ - Formato: .jar
+ - Versión: 1.0
+ - Precio: Gratis
+
+[DESCARGA EL PROGRAMA DE FORMA GRATUITA](https://github.com/gatomo-oficial/Contador-de-dinero/releases/download/1.0/Contador_de_dinero.jar)
+
 ## Planes
 Tengo planeado hacer la versión para Android, pero en un futuro, *ahora tengo sueño*
 
