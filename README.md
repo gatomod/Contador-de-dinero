@@ -1,5 +1,5 @@
 # Contador de dinero
- Contador de dinero hecho en Java por Gátomo. Está hechos para los que tenemos una hucha de dinero que nos encontramos pero nos liamos al sumar el dinero.
+ Contador de dinero hecho en Java por Gátomo. Está hecho para los que tenemos una hucha de dinero que nos encontramos por la calle pero nos liamos al sumarlo todo.
 ## Funcionamiento
 Es tan sencillo *como el mecanismo de un tenedor*. El programa es demasiado básico, tiene un asistente en el que te pregunta los valores que tienes. Sería algo así:
 
