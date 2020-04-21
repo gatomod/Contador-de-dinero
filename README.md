@@ -47,5 +47,8 @@ Actualmente solo acepta euros (€), con que agradecería que ayudaseis en el de
 ## Agradecimientos
 De momento nadie me ha ayudado, solo me agradezco a mi mismo y a mi creatividad *sin contar mis problemas financieros con la hucha*
 
+## Contáctame
+Si quieres contactar conmigo, puedes contactar por[Instagram Direct](https://www.instagram.com/gatomo_oficial/) o entra a [mi server de Discord](https://discord.gg/baEBjwU). No te voy a dar mi correo
+
 
 Espero que disfrutes del programa XD :v
