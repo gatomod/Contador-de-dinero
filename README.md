@@ -12,7 +12,7 @@ Debes contar cuántas monedas tienes de cada valor. Así te ahorras tiempo suman
 El programa es demasiado básico, con que agradecería que ayudaseis a mejorar el desarrollo. Está programado en Java, y se ha usado el editor [NetBeans](https://netbeans.org/)
 
 ## Licencia
-Este programa tiene la licncia GPL 3.0, porque me parece bien que cada uno haga su propia versión, pero en vuestras ediciones **quiero que pongais que el creador original fue Gátomo, y no quiero que se comercialice**
+Este programa tiene la licncia MIT, porque me parece bien que cada uno haga su propia versión, pero en vuestras ediciones **QUIERO QUE PONGAIS QUE EL CREADOR ORIGINAL FUE GÁTOMO,ASÍMISMO, NO QUIERO QUE SE COMERCIALIZE**
 
 ## Descarga
 Descarga el programa para Windows, MacOS y Linux 
