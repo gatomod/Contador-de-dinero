@@ -26,7 +26,7 @@ Datos:
 
 [DESCARGA EL PROGRAMA DE FORMA GRATUITA](https://github.com/gatomo-oficial/Contador-de-dinero/releases/download/1.0/Contador_de_dinero.jar)
 
-##Programa Beta
+## Programa Beta
 El programa beta es el desarrollo temporal de un programa.
 
  - Requisitos: Tener Java Instalado
