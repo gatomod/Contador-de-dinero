@@ -29,7 +29,7 @@ Datos:
 ## Planes
 Tengo planeado hacer la versión para Android, pero en un futuro, *ahora tengo sueño*
 
-##Problemas
+## Problemas
 Actualmente solo acepta euros (€), con que agradecería que ayudaseis en el desarrollo.
 
 ## Agradecimientos
