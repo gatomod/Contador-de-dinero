@@ -9,7 +9,7 @@ Es tan sencillo *como el mecanismo de un tenedor*. El programa es demasiado bás
 Debes contar cuántas monedas tienes de cada valor. Así te ahorras tiempo sumando *y arrepintiéndote de no prestar atención en clase cuando te dijeron cómo sumar dinero*
 
 ## Desarrollo
-El programa es demasiado básico, con que agradecería que ayudaseis a mejorar el desarrollo. Está programado en Java, y se ha usado el editor [NetBeans](https://netbeans.org/)
+El programa es demasiado básico, con que agradecería que ayudaseis a mejorar el desarrollo. Está programado en Java, y se ha usado el editor [NetBeans](https://netbeans.org/) acompañado con [Atom](https://atom.io)
 
 ## Licencia
 Este programa tiene la licncia MIT, porque me parece bien que cada uno haga su propia versión, pero en vuestras ediciones **QUIERO QUE PONGAIS QUE EL CREADOR ORIGINAL FUE GÁTOMO,ASÍMISMO, NO QUIERO QUE SE COMERCIALIZE**
