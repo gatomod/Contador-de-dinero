@@ -26,6 +26,18 @@ Datos:
 
 [DESCARGA EL PROGRAMA DE FORMA GRATUITA](https://github.com/gatomo-oficial/Contador-de-dinero/releases/download/1.0/Contador_de_dinero.jar)
 
+##Programa Beta
+El programa beta es el desarrollo temporal de un programa.
+
+ - Requisitos: Tener Java Instalado
+ - Peso: 5 KB
+ - Formato: .jar
+ - Versión: 1.1 Beta
+ - Precio: Gratis
+ - Novedades: Implantado el Dólar, más texto e información.
+ 
+ [DESCARGA EL PROGRAMA BETA DE FORMA GRATUITA (estable)](https://github.com/gatomo-oficial/Contador-de-dinero/releases/download/1.1_beta/Contador_de_dinero.jar)
+
 ## Planes
 Tengo planeado hacer la versión para Android, pero en un futuro, *ahora tengo sueño*
 
