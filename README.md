@@ -5,17 +5,18 @@ Es tan sencillo *como el mecanismo de un tenedor*. El programa es demasiado bás
 
  1. ¿Cuantas monedas de 1 céntimo tienes?
  2. ¿Cuantas monedas de 2 céntimos tienes?
+ 3. ...
 
-Debes contar cuántas monedas tienes de cada valor. Así te ahorras tiempo sumando *y arrepintiéndote de no prestar atención en clase cuando te dijeron cómo sumar dinero*
+Debes contar cuántas monedas tienes de cada valor. Así te ahorras tiempo sumando *y arrepintiéndote de no prestar atención en clase cuando te dijeron cómo sumar dinero*.
 
 ## Desarrollo
-El programa es demasiado básico, con que agradecería que ayudaseis a mejorar el desarrollo. Está programado en Java, y se ha usado el editor [NetBeans](https://netbeans.org/) acompañado con [Atom](https://atom.io)
+El programa es demasiado básico, con que agradecería que ayudaseis a mejorar el desarrollo. Está programado en Java, y se ha usado el editor [NetBeans](https://netbeans.org/) acompañado con [Atom](https://atom.io).
 
 ## Licencia
-Este programa tiene la licncia MIT, porque me parece bien que cada uno haga su propia versión, pero en vuestras ediciones **QUIERO QUE PONGAIS QUE EL CREADOR ORIGINAL FUE GÁTOMO,ASÍMISMO, NO QUIERO QUE SE COMERCIALIZE**
+Este programa tiene la licncia MIT, porque me parece bien que cada uno haga su propia versión, pero en vuestras ediciones **QUIERO QUE PONGAIS QUE EL CREADOR ORIGINAL FUE GÁTOMO,ASÍMISMO, NO QUIERO QUE SE COMERCIALIZE**.
 
 ## Descarga
-Descarga el programa para Windows, MacOS y Linux 
+Descarga el programa para Windows, MacOS y Linux .
 
 Datos:
  - Requisitos: Tener Java Instalado
@@ -39,16 +40,16 @@ El programa beta es el desarrollo temporal de un programa.
  [DESCARGA EL PROGRAMA BETA DE FORMA GRATUITA (estable)](https://github.com/gatomo-oficial/Contador-de-dinero/releases/download/1.1_beta/Contador_de_dinero.jar)
 
 ## Planes
-Tengo planeado hacer la versión para Android, pero en un futuro, *ahora tengo sueño*
+Tengo planeado hacer la versión para Android, pero en un futuro, *ahora tengo sueño*.
 
 ## Problemas
 Actualmente solo acepta euros (€), con que agradecería que ayudaseis en el desarrollo.
 
 ## Agradecimientos
-De momento nadie me ha ayudado, solo me agradezco a mi mismo y a mi creatividad *sin contar mis problemas financieros con la hucha*
+De momento nadie me ha ayudado, solo me agradezco a mi mismo y a mi creatividad *sin contar mis problemas financieros*.
 
 ## Contáctame
-Si quieres contactar conmigo, puedes contactar por[Instagram Direct](https://www.instagram.com/gatomo_oficial/) o entra a [mi server de Discord](https://discord.gg/baEBjwU). No te voy a dar mi correo
+Si quieres contactar conmigo, puedes contactar por [Instagram Direct](https://www.instagram.com/gatomo_oficial/) o entra a [mi server de Discord](https://discord.gg/baEBjwU). No te voy a dar mi correo.
 
 
 Espero que disfrutes del programa XD :v
