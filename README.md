@@ -25,7 +25,7 @@ Datos:
  - Versión: 1.0
  - Precio: Gratis
 
-[DESCARGA EL PROGRAMA DE FORMA GRATUITA](https://github.com/gatomo-oficial/Contador-de-dinero/releases/download/1.0/Contador_de_dinero.jar)
+[DESCARGA EL PROGRAMA DE FORMA GRATUITA](https://github.com/gatomo-oficial/Contador-de-dinero/releases/download/V.1.0/Contador_de_dinero.jar)
 
 ## Programa Beta
 El programa beta es un programa en pruebas hecho para evaluar sus errores o añadir algo. *Son como las snapshot de Minecraft*.
@@ -37,7 +37,7 @@ El programa beta es un programa en pruebas hecho para evaluar sus errores o aña
  - Precio: Gratis
  - Novedades: Implantado el Dólar, más texto e información.
  
- [DESCARGA EL PROGRAMA BETA DE FORMA GRATUITA (estable)](https://github.com/gatomo-oficial/Contador-de-dinero/releases/download/1.1_beta/Contador_de_dinero.jar)
+ [DESCARGA EL PROGRAMA BETA DE FORMA GRATUITA (estable)](https://github.com/gatomo-oficial/Contador-de-dinero/releases/download/V.1.1_beta/Contador_de_dinero.jar)
 
 ## Planes
 Tengo planeado hacer la versión para Android, pero en un futuro, *ahora tengo sueño*.
