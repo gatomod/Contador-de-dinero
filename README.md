@@ -50,8 +50,8 @@ De momento nadie me ha ayudado, solo me agradezco a mi mismo y a mi creatividad 
 
 ## Contáctame
 Si quieres contactar conmigo, puedes contactar por las siguientes plataformas:
-[Instagram Direct](https://www.instagram.com/gatomo_oficial/)
-[mi server de Discord](https://discord.gg/baEBjwU).
+[Instagram Direct](https://www.instagram.com/gatomo_oficial/) 
+[mi server de Discord](https://discord.gg/baEBjwU). 
 No te voy a dar mi correo, es privado.
 
 
