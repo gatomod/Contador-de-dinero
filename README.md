@@ -10,7 +10,10 @@ Es tan sencillo *como el mecanismo de un tenedor*. El programa es demasiado bás
 Debes contar cuántas monedas tienes de cada valor. Así te ahorras tiempo sumando *y arrepintiéndote de no prestar atención en clase cuando te dijeron cómo sumar dinero*.
 
 ## Desarrollo
-El programa es demasiado básico, con que agradecería que ayudaseis a mejorar el desarrollo. Está programado en Java, y se ha usado el editor [NetBeans](https://netbeans.org/) acompañado con [Atom](https://atom.io).
+El programa es demasiado básico, con que agradecería que ayudaseis a mejorar el desarrollo. Claro que para que puedas ayudar necesitas algunos datos: 
+- Lenguaje de programación: Java
+- IDEs utilizados: [NetBeans](https://netbeans.org/) y [Atom](https://atom.io)
+- Interfaz gráfica del programa: JOptionPane
 
 ## Licencia
 Este programa tiene la licncia MIT, porque me parece bien que cada uno haga su propia versión, pero en vuestras ediciones **QUIERO QUE PONGAIS QUE EL CREADOR ORIGINAL FUE GÁTOMO,ASÍMISMO, NO QUIERO QUE SE COMERCIALIZE**.
@@ -23,18 +26,18 @@ Datos:
  - Peso: 5 KB
  - Formato: .jar
  - Versión: 1.0
- - Precio: Gratis
+ - Precio: Gratis, **¡¡¡SIEMPRE GRATIS!!!**
 
 [DESCARGA EL PROGRAMA DE FORMA GRATUITA](https://github.com/gatomo-oficial/Contador-de-dinero/releases/download/V.1.0/Contador_de_dinero.jar)
 
 ## Programa Beta
-El programa beta es un programa en pruebas hecho para evaluar sus errores o añadir algo. *Son como las snapshot de Minecraft*.
+El programa beta es un programa en pruebas hecho para evaluar sus errores o realizar algún cambio. *Son como las snapshot de Minecraft*.
 
  - Requisitos: Tener Java Instalado
  - Peso: 5 KB
  - Formato: .jar
  - Versión: 1.1 Beta
- - Precio: Gratis
+ - Precio: Gratis, **¡¡¡SIEMPRE GRATIS!!!**
  - Novedades: Implantado el Dólar, más texto e información.
  
  [DESCARGA EL PROGRAMA BETA DE FORMA GRATUITA (estable)](https://github.com/gatomo-oficial/Contador-de-dinero/releases/download/V.1.1_beta/Contador_de_dinero.jar)
@@ -51,8 +54,8 @@ De momento nadie me ha ayudado, solo me agradezco a mi mismo y a mi creatividad 
 ## Contáctame
 Si quieres contactar conmigo, puedes contactar por las siguientes plataformas:
 - [Instagram Direct](https://www.instagram.com/gatomo_oficial/) 
-- [mi server de Discord](https://discord.gg/baEBjwU). 
-- No te voy a dar mi correo, es privado.
+- [Discord](https://discord.gg/baEBjwU)
+- No te voy a dar mi correo, es privado, **¡¡¡TODO ES PRIVADO!!!** *o debería*.
 
 
 Espero que disfrutes del programa y me comentes como va XD :v
