@@ -54,7 +54,7 @@ De momento nadie me ha ayudado, solo me agradezco a mi mismo y a mi creatividad 
 ## Contáctame
 Si quieres contactar conmigo, puedes contactar por las siguientes plataformas:
 - Instagram: [Gátomo](https://www.instagram.com/gatomo_oficial/) 
-- Discord: [Gátomo](https://discord.gg/baEBjwU)
+- Discord: [Gátomo](https://discord.gg/Pg3eeyN)
 - Correo: [Gatomociencia@gmail.com](Gatomociencia@gmail.com)
 
 
