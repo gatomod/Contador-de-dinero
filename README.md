@@ -55,7 +55,5 @@ De momento nadie me ha ayudado, solo me agradezco a mi mismo y a mi creatividad 
 Si quieres contactar conmigo, puedes contactar por las siguientes plataformas:
 - Instagram: [Gátomo](https://www.instagram.com/gatomo_oficial/) 
 - Discord: [Gátomo](https://discord.gg/Pg3eeyN)
-- Correo: [Gatomociencia@gmail.com](Gatomociencia@gmail.com)
-
 
 Espero que disfrutes del programa y me comentes como va XD :v
